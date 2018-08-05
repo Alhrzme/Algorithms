@@ -1,6 +1,5 @@
 package main
 
-
 func insertionSort(arr []int) []int {
 	for i, value := range arr {
 		currentMax := value
